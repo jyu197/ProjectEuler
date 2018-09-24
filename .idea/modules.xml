@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P15LatticePaths/P15LatticePaths.iml" filepath="$PROJECT_DIR$/P15LatticePaths/P15LatticePaths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P16PowerDigitSum/P16PowerDigitSum.iml" filepath="$PROJECT_DIR$/P16PowerDigitSum/P16PowerDigitSum.iml" />
+    </modules>
+  </component>
+</project>

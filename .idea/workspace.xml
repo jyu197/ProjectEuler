@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac62cb55-6b0c-411d-a0f5-76b10c2e17d9" name="Default Changelist" comment="" />
+    <list default="true" id="ac62cb55-6b0c-411d-a0f5-76b10c2e17d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/P19CountingSundays/P19CountingSundays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P19CountingSundays/src/P19CountingSundays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/P15LatticePaths/bin/" />
     <ignored path="$PROJECT_DIR$/P16PowerDigitSum/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,36 +19,40 @@
     <session id="1323045437">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="22" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="20" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7217" />
+          <entry key="java" value="10331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6745" />
+          <entry key="JAVA" value="9859" />
           <entry key="Scratch" value="472" />
         </counts>
       </usages-collector>
@@ -70,14 +79,14 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/P17NumberLetterCounts/src/P17NumberLetterCounts.java" />
         <option value="$PROJECT_DIR$/P18MaxPathSum1/src/P18MaxPathSum1.java" />
+        <option value="$PROJECT_DIR$/P19CountingSundays/src/P19CountingSundays.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2873" />
-    <option name="y" value="-485" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -86,6 +95,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,12 +116,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jyu19/Documents/GitHub/ProjectEuler/P15LatticePaths/src/P15LatticePaths.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541492399786" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541573464718" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-1.4.3/resources/app/git/cmd/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -131,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P18MaxPathSum1">
+  <component name="RunManager" selected="Application.P19CountingSundays">
     <configuration name="P17NumberLetterCounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P17NumberLetterCounts" />
       <module name="P17NumberLetterCounts" />
@@ -142,6 +151,13 @@
     <configuration name="P18MaxPathSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P18MaxPathSum1" />
       <module name="P18MaxPathSum1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P19CountingSundays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P19CountingSundays" />
+      <module name="P19CountingSundays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,9 +173,11 @@
       <item itemvalue="Java Scratch.Scratch" />
       <item itemvalue="Application.P17NumberLetterCounts" />
       <item itemvalue="Application.P18MaxPathSum1" />
+      <item itemvalue="Application.P19CountingSundays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P19CountingSundays" />
         <item itemvalue="Application.P18MaxPathSum1" />
         <item itemvalue="Application.P17NumberLetterCounts" />
         <item itemvalue="Java Scratch.Scratch" />
@@ -189,9 +207,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-493" width="1936" height="1056" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24549237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -200,7 +218,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28091106" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27765727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -208,7 +226,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,8 +274,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P18MaxPathSum1/src/P18MaxPathSum1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="307">
           <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P19CountingSundays/P19CountingSundays.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P19CountingSundays/src/P19CountingSundays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>

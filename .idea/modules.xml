@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/P16PowerDigitSum/P16PowerDigitSum.iml" filepath="$PROJECT_DIR$/P16PowerDigitSum/P16PowerDigitSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/P17NumberLetterCounts/P17NumberLetterCounts.iml" filepath="$PROJECT_DIR$/P17NumberLetterCounts/P17NumberLetterCounts.iml" />
       <module fileurl="file://$PROJECT_DIR$/P18MaxPathSum1/P18MaxPathSum1.iml" filepath="$PROJECT_DIR$/P18MaxPathSum1/P18MaxPathSum1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P19CountingSundays/P19CountingSundays.iml" filepath="$PROJECT_DIR$/P19CountingSundays/P19CountingSundays.iml" />
     </modules>
   </component>
 </project>
